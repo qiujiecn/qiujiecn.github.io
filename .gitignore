@@ -1,3 +1,3 @@
 .idea
-configs/.vitepress/cache
 node_modules
+cache
