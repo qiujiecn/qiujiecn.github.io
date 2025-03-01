@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/qiujiecn",
+  base: "/notes",
   // 站点的标题。
   title: "QiuJie's Note",
   // 站点的描述。这将呈现为页面 HTML 中的 <meta> 标签。
